@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/mnt/c/Users/alisson.luz/Documents/Curso DevOps mão na massa/vagrant-lab","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
