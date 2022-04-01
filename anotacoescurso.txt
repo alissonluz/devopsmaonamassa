@@ -27,3 +27,5 @@ Erro permission denied para logar no ssh
 Solução no cmd: $Env:VAGRANT_PREFER_SYSTEM_BIN += 0
 
 ==========================================================================
+Vagrant assumes that this means the command failed! umount /mn
+solução: config.vbguest.installer_options = { allow_kernel_upgrade: true }
